@@ -5,9 +5,9 @@ Battery SOC estimation
 Octave (MATLAB compatible)
 
 ### Techniques:
-Kalman Filter
-Extended Kalman Filter
-Unscented Kalman Filter
+Kalman Filter,
+Extended Kalman Filter,
+Unscented Kalman Filter.
 
 ### Why this matters:
 Real world aerospace platforms have very different estimation domains.
