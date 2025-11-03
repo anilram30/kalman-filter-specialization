@@ -1,5 +1,3 @@
-### Domain:
-Battery SOC estimation 
 
 ### Language:
 Octave (MATLAB compatible)
@@ -10,5 +8,5 @@ Extended Kalman Filter,
 Unscented Kalman Filter.
 
 ### Why this matters:
-Real world aerospace platforms have very different estimation domains.
-This project demonstrates applying the same estimation logic to a battery system model.
+
+#TODO: Add medium.com journal with relavant theory for deepdive
