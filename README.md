@@ -6,10 +6,10 @@ Start at **[00_Index.ipynb](00_Index.ipynb)**.
 | # | Notebook | Topic |
 |----|----------|-------|
 | 00 | Index | Map of the whole series |
-| 01 | Continuous State-Space Models | Boot Camp *(existing)* |
-| 02 | Kinematic Models NCP/NCV/CT | Boot Camp *(existing)* |
-| 03 | Discrete-Time State-Space Models & Simulation | Boot Camp *(existing)* |
-| 04 | Random Variables | Boot Camp *(existing)* |
+| 01 | Continuous State-Space Models | Boot Camp |
+| 02 | Kinematic Models NCP/NCV/CT | Boot Camp |
+| 03 | Discrete-Time State-Space Models & Simulation | Boot Camp |
+| 04 | Random Variables | Boot Camp |
 | 05 | System Dynamics, Modes, Observability & Controllability | Boot-Camp bridge |
 | 06 | Stochastic Processes, White Noise & Propagating Uncertainty | Boot-Camp bridge |
 | 07 | Sequential Probabilistic Inference & the Six Steps | Linear KF |
